@@ -1,0 +1,12 @@
+#Node
+node_modules
+#vscode
+.vscode
+#app
+.env
+#data
+servers.json
+#Docker
+Dockerfile
+#test
+test*
